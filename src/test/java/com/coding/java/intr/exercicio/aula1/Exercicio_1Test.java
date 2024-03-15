@@ -1,5 +1,6 @@
-package com.coding.java.intr.exercicio.aula;
+package com.coding.java.intr.exercicio.aula1;
 
+import com.coding.java.intr.exercicio.aula.Exercicio_1;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
